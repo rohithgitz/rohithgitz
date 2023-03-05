@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rohithgitz/rohithgitz/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rohith Namala</h1>
 <h3 align="center">With a passion for software automation</h3>
 
