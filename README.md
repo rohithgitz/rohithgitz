@@ -1,9 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Rohith Namala</h1>
 <h3 align="center">With a passion for software automation</h3>
 
 <img align="right" alt="coding" width="400" src="<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Night Programming GIF by Metin Seven [Video] | Animation design, Animated  gif, Tech humor"/>">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithgitz" alt="rohithgitz" /></a> </p>
 
 - ⚡ Fun fact **I've named all of my computers after characters from my favorite sci-fi movies**
 
